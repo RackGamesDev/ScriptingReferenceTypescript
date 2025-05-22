@@ -5,6 +5,7 @@ Para abrirlo:
 `tsc index.ts`
 Typescript no se ejecuta directamente, se compila a Javascript
 Crear el tsconfig.json para la configuración de compilación: `tsc --init`
+Una vez configurado todo se puede hacer `tsc`
 
 ## License
 This project is licensed under the GNU General Public License v3.0.  
