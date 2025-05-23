@@ -11,6 +11,7 @@ if (2 > 1) {
 let numero:number = 10;
 //numero = "hola"; //Imposible
 let otroNumero = 10; //Supone el tipo
+let numeroPorDefecto!:number; //Asigna el valor por defecto de ese tipo
 let imprimible:number|string = "aa"; //Una variable que puede ser de uno de varios tipos, util para parametros en funciones
 console.log(typeof imprimible); //Devuelve un string con el tipo
 let unoOtro:3 | 4 = 3; //Solo puede ser uno de esos
